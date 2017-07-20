@@ -1,0 +1,142 @@
+<style type="text/css">
+   
+    .Title
+    {
+        display: table-caption;
+        text-align: center;
+        font-weight: bold;
+        font-size: larger;
+    }
+    .Heading
+    {
+        display: table-row;
+        font-weight: bold;
+        text-align: center;
+    }
+    .Row
+    {
+        display: table-row;
+    }  
+    .Cell1
+    {
+    	width:225px;
+		height:225px;
+        display: table-cell;
+        border: solid;
+		float:left;
+        border-width: 0.2cm;
+        padding-left: 5px;
+        padding-right: 5px;
+		background: red;
+		overflow: scroll;
+		overflow-x:hidden;
+		border-color:black;
+}
+    .Cell2
+    {
+    	width:225px;
+    	height:225px;
+		display: table-cell;
+        border: solid;
+ 		float:left;
+        border-width: 0.2cm;
+        padding-left: 5px;
+        padding-right: 5px;
+		background: #87CEEB;
+    	overflow: scroll;
+    	overflow-x:hidden;
+    	border-color:black;
+    }
+    .Cell3
+    {
+    	width:225px;
+    	height:225px;
+		display: table-cell;
+        border: solid;
+ 		float:left;
+        border-width: 0.2cm;
+        padding-left: 5px;
+        padding-right: 5px;
+		background: orange;
+    	overflow:scroll;
+    	overflow-x:hidden;
+    	border-color:black;
+    }
+    .Cell4
+    {
+        width:225px;
+    	height:225px;
+		display: table-cell;
+        border: solid;
+ 		float:left;
+        border-width: 0.2cm;
+        padding-left: 5px;
+        padding-right: 5px;
+		background: #f27c91;
+    	overflow: scroll;
+    	overflow-x:hidden;
+    	border-color:black;
+    }
+.text-box {
+	width:1450px;
+	border:4px;
+	height:478px;
+	margin-left:-820px;
+	margin-top: 100px;
+}
+.headline {               
+ 	float:left;               
+}
+
+.headline h1 {
+				
+                transform: rotate(-90deg);
+                -webkit-transform: rotate(-90deg);
+                -moz-transform: rotate(-90deg);
+                -ms-transform: rotate(-90deg);
+                position:relative;
+                text-align: center;
+                top:190px;
+                left: 250px;
+                display:inline-block;
+                color:black;
+              }
+
+.headline h2 {
+				
+                transform: rotate(-90deg);
+                -webkit-transform: rotate(-90deg);
+                -moz-transform: rotate(-90deg);
+                -ms-transform: rotate(-90deg);
+                position:relative;
+                text-align: center;
+                top: 145px;
+                left: 135px;
+                display:inline-block;
+                color:black;
+}
+.headline1 {               
+ 	float:left;               
+} 
+.headline1 h1 {
+				
+                position:relative;
+                text-align: center;
+                top:-160px;
+                left: 1065px;
+                display:inline-block;
+                color:black;
+              }
+
+.headline1 h2 {
+				
+               position:relative;
+                text-align: center;
+                top: -115px;
+                left: 810px;
+                display:inline-block;
+                color:black;
+}
+
+
+</style>
